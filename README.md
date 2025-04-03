@@ -19,8 +19,8 @@ Jogo de turnos onde você compete contra o sistema para ser o primeiro a chegar 
 ## 🏆 Regras Especiais  
 | Posição | Efeito               | Ícone |
 |---------|----------------------|-------|
-| 5,10,15 | +3 casas             | 🚀    |
-| 7,13,20 | -2 casas             | ⚠️    |
+| 5,00 | +3 casas             | 🚀    |
+| 7,00 | -2 casas             | ⚠️    |
 | Tirar 6 | Rodada extra         | 🔄    |
 
 ## 🖥️ Como Executar  
